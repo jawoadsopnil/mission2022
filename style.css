@@ -1,0 +1,224 @@
+body{
+    font-family: 'Lato', sans-serif;
+   
+}
+/* header start from here */
+
+
+.container{
+ display: flex;
+ align-items: center;
+ margin-bottom: 100px;
+
+}
+.half-width{
+ width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.heading-div{
+    border-left: 5px solid red;
+    padding-left: 13px;
+ 
+ 
+}
+.heading{
+    margin: 0px;
+    font-size: 50px;
+
+}
+.secound-heading{
+ color: red;
+}
+.link-button1{
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 37.5px;
+    border-radius: 10px;
+
+}
+.header-description{
+    margin-left: 100px;
+}
+.header-img{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+/* <!-- header end's form here  --> */
+/* css my mission start from here */
+.year-decoration{
+    color: red;
+}
+.mission-head{
+    text-align: center;
+    font-size: 50px;
+
+}
+.mission-img{
+    width: 130px;
+}
+.missions{
+   
+    width:360px;
+}
+.mymission-section{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+.mission1{
+    background-color: aqua;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.mission2{
+    background-color: burlywood;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mission3{
+    background-color: coral;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+/* developer with out limit css start's from here  */
+.container2{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-position: left;
+    background-size: 200px;
+    background-repeat: no-repeat;
+  
+
+}
+.link-button2{
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 37.5px;
+    border-radius: 10px;
+
+}
+.heading-without-limits{
+    margin: 0px;
+    font-size: 50px;
+}
+.half-width2{
+width: 100%;
+margin-bottom: 100px;
+}
+.half-width2 img{
+width: 80%;
+}
+.DevelopWithoutLimits-div{
+ margin-right: 200px;
+ padding-top: 60px;
+ 
+ 
+}
+.DevelopWithoutLimits-div2{
+    margin-left: 100px;
+    
+}
+/* DevelopWithout Limits css ends here  */
+
+/* know our global comunity css starts here  */
+
+
+.global-head{
+    margin: 0px;
+    font-size: 40px;
+}
+.link-button2{
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 37.5px;
+    border-radius: 10px;
+
+}
+.half-width4{
+    width:100%;
+}
+.half-width4 img{
+    width: 60%;
+}
+.container-4{
+    display: flex;
+    align-items: center;
+    background-image: url(images/shapes/shape-1.png);
+    background-position: right;
+    background-size: 280px;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.global-head-decaration{
+ margin-left: 100px;
+}
+.global-head-decaration2{
+    margin-left: 150px;
+    
+
+}
+/* new teacher css add from here */
+
+
+.contac-heading{
+    margin: 0px;
+    font-size: 30px;
+    
+
+}
+.contac-heading2{
+    color: red;
+}
+.link-button5{
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 37.5px;
+    border-radius: 10px; 
+}
+.half-width5{
+ width: 100%;
+ margin-top: 100px;
+ margin-bottom: 200px;
+}
+.half-width5 img{
+ width: 50%;
+}
+.colorjeem{
+    color: red;
+}
+.meetour-tacher{
+    text-align: center;
+    font-size: 30px;
+
+}
+.container5{
+    display: flex;
+    align-items: center;
+}
+.jeem-facebook{
+    margin-left: 300px;
+    
+}
+.contac-jeem-heading{
+    margin-right: 300px;
+}
+.footeradd{
+    text-align: center;
+}
