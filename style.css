@@ -1,5 +1,6 @@
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0px;
    
 }
 /* header start from here */
@@ -95,9 +96,10 @@ body{
 .container2{
     display: flex;
     background-image: url(images/shapes/shape-1.png);
-    background-position: left;
+   background-repeat: no-repeat;
     background-size: 200px;
-    background-repeat: no-repeat;
+   
+    
   
 
 }
@@ -219,6 +221,13 @@ width: 80%;
 .contac-jeem-heading{
     margin-right: 300px;
 }
-.footeradd{
+footer{
+    background-color: gray;
+    color: white;
+    height: 200px;
     text-align: center;
+    padding-top: 60px;
+}
+footer p{
+    margin: 0px;
 }
